@@ -986,7 +986,6 @@ select:focus {
     display: flex;
     justify-content: space-between;
     justify-content: center;
-    background-color: #fafafa;
     width: 100%;
     margin: 100px auto 50px auto;
   }
@@ -1270,6 +1269,7 @@ select:focus {
 
   .history {
     padding: 0;
+    padding-bottom: 20px;
     flex-direction: column-reverse;
   }
 
